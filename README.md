@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Digital Jersey Coding Programme
 
 This repository contains a brief overview of each session run on the course along with links to relevant resources and completed code written by mentors during sessions.  If you're lucky you might find that some of the code has comments.
@@ -48,3 +49,7 @@ Matt's exercises can be found in the folder titled *Session 6-9*
 Some sample solutions to the problem can also be found in this folder
 
 
+=======
+# producthunt
+Producthunt session
+>>>>>>> 5b1f591b1960f61e3db3ecacc280ebfc5936015c
